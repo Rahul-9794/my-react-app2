@@ -1,2 +1,3 @@
 # my-react-app2
-Motion is a JavaScript animation library that's easy to start and fun to master.
+This is my personal portfolio in react js using in libraries react motion
+This fully Animate blog websites in react js 
